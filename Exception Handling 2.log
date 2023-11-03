@@ -1,0 +1,24 @@
+2023-11-03 08:29:06,501 FloatingPointError: float division by zero
+2023-11-03 08:31:45,656 ZeroDivision error : division by zero
+2023-11-03 08:35:58,840 KeyError: 'x'
+2023-11-03 08:36:30,806 IndexError: list index out of range
+2023-11-03 08:39:46,603 diff parser start
+2023-11-03 08:39:46,603 line_lengths old: 4; new: 4
+2023-11-03 08:39:46,603 -> code[replace] old[1:4] new[1:4]
+2023-11-03 08:39:46,604 parse_part from 1 to 4 (to 3 in part parser)
+2023-11-03 08:39:46,604 diff parser end
+2023-11-03 08:40:56,533 Import Error : No module named 'nomodule'
+2023-11-03 08:41:39,951 diff parser start
+2023-11-03 08:41:39,952 line_lengths old: 4; new: 4
+2023-11-03 08:41:39,952 -> code[replace] old[1:1] new[1:1]
+2023-11-03 08:41:39,952 parse_part from 1 to 4 (to 3 in part parser)
+2023-11-03 08:41:39,952 -> code[equal] old[2:2] new[2:2]
+2023-11-03 08:41:39,952 -> code[replace] old[3:4] new[3:4]
+2023-11-03 08:41:39,952 diff parser end
+2023-11-03 08:41:44,802 diff parser start
+2023-11-03 08:41:44,802 line_lengths old: 4; new: 4
+2023-11-03 08:41:44,803 -> code[equal] old[1:3] new[1:3]
+2023-11-03 08:41:44,803 parse_part from 1 to 4 (to 3 in part parser)
+2023-11-03 08:41:44,803 -> code[replace] old[4:4] new[4:4]
+2023-11-03 08:41:44,803 diff parser end
+2023-11-03 08:42:20,240 Module Not Found Error: No module named 'neha' 
