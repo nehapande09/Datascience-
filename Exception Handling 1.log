@@ -1,0 +1,32 @@
+2023-11-03 05:52:43,943 A value error occurred (invalid conversion).
+2023-11-03 06:08:27,804 Element Added
+2023-11-03 06:08:29,835 list assignment index out of range
+2023-11-03 06:08:29,836 The program run successfully
+2023-11-03 06:08:31,793 Custom exception caught: Division by zero is not allowed.
+2023-11-03 06:24:09,080 diff parser start
+2023-11-03 06:24:09,081 line_lengths old: 4; new: 8
+2023-11-03 06:24:09,081 -> code[replace] old[1:4] new[1:8]
+2023-11-03 06:24:09,082 parse_part from 1 to 8 (to 7 in part parser)
+2023-11-03 06:24:09,082 diff parser end
+2023-11-03 06:28:16,035 Applicable
+2023-11-03 06:29:19,341 Does Not Applicable for the Form
+2023-11-03 06:31:54,644 No such comm target registered: jupyter.widget.control
+2023-11-03 06:31:54,647 No such comm: ca850c9c-a201-4752-8ef1-de6aa716c607
+2023-11-03 06:31:54,647 Current comms: []
+2023-11-03 06:59:51,270 diff parser start
+2023-11-03 06:59:51,270 line_lengths old: 8; new: 6
+2023-11-03 06:59:51,270 -> code[replace] old[1:2] new[1:2]
+2023-11-03 06:59:51,271 parse_part from 1 to 3 (to 4 in part parser)
+2023-11-03 06:59:51,271 -> code[equal] old[3:4] new[3:4]
+2023-11-03 06:59:51,272 parse_part from 4 to 6 (to 5 in part parser)
+2023-11-03 06:59:51,272 -> code[replace] old[5:8] new[5:6]
+2023-11-03 06:59:51,272 diff parser end
+2023-11-03 07:00:27,887 diff parser start
+2023-11-03 07:00:27,888 line_lengths old: 6; new: 7
+2023-11-03 07:00:27,888 -> code[equal] old[1:5] new[1:5]
+2023-11-03 07:00:27,889 copy old[1:3] new[1:3]
+2023-11-03 07:00:27,889 parse_part from 4 to 4 (to 4 in part parser)
+2023-11-03 07:00:27,890 parse_part from 5 to 7 (to 6 in part parser)
+2023-11-03 07:00:27,890 -> code[replace] old[6:6] new[6:7]
+2023-11-03 07:00:27,890 diff parser end
+2023-11-03 07:12:37,811 This is a custom exception.
